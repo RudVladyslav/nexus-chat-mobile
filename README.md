@@ -1,13 +1,13 @@
-# Nexus Chat
+# React Native Nexus Chat Mobile
 
-Nexus Chat is a real-time chat application built with [insert technologies/frameworks used].
+React Native Nexus Chat Mobile is a real-time chat application built with React Native.
 
 ## Features
 
 - Real-time messaging
 - User authentication
 - User profiles
-- [Add more features here]
+<!-- - [Add more features here] -->
 
 ## Installation
 
@@ -18,23 +18,5 @@ Nexus Chat is a real-time chat application built with [insert technologies/frame
 ## Usage
 
 1. Start the development server: `npm start`
-2. Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
-3. [Add any additional usage instructions here]
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to Nexus Chat, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature/your-feature-name`
-3. Make your changes and commit them: `git commit -m 'Add your commit message here'`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Submit a pull request
-
-## License
-
-[Insert license information here]
-
-## Contact
-
-For any questions or inquiries, please contact [insert contact information here].
+2. Open your emulator or connect your device
+3. Run the app on your emulator or device: `npx react-native run-android` (for Android) or `npx react-native run-ios` (for iOS)
