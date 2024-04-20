@@ -13,6 +13,25 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-vovaschatmobile-vovaschatmobileTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-vovaschatmobile-vovaschatmobileTests.a */; };
+		7B33A9AD2BD446B500DABDFD /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B33A9992BD446B500DABDFD /* AntDesign.ttf */; };
+		7B33A9AE2BD446B500DABDFD /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B33A99A2BD446B500DABDFD /* Entypo.ttf */; };
+		7B33A9AF2BD446B500DABDFD /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B33A99B2BD446B500DABDFD /* EvilIcons.ttf */; };
+		7B33A9B02BD446B500DABDFD /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B33A99C2BD446B500DABDFD /* Feather.ttf */; };
+		7B33A9B12BD446B500DABDFD /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B33A99D2BD446B500DABDFD /* FontAwesome.ttf */; };
+		7B33A9B22BD446B500DABDFD /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B33A99E2BD446B500DABDFD /* FontAwesome5_Brands.ttf */; };
+		7B33A9B32BD446B500DABDFD /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B33A99F2BD446B500DABDFD /* FontAwesome5_Regular.ttf */; };
+		7B33A9B42BD446B500DABDFD /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B33A9A02BD446B500DABDFD /* FontAwesome5_Solid.ttf */; };
+		7B33A9B52BD446B500DABDFD /* FontAwesome6_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B33A9A12BD446B500DABDFD /* FontAwesome6_Brands.ttf */; };
+		7B33A9B62BD446B500DABDFD /* FontAwesome6_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B33A9A22BD446B500DABDFD /* FontAwesome6_Regular.ttf */; };
+		7B33A9B72BD446B500DABDFD /* FontAwesome6_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B33A9A32BD446B500DABDFD /* FontAwesome6_Solid.ttf */; };
+		7B33A9B82BD446B500DABDFD /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B33A9A42BD446B500DABDFD /* Fontisto.ttf */; };
+		7B33A9B92BD446B500DABDFD /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B33A9A52BD446B500DABDFD /* Foundation.ttf */; };
+		7B33A9BA2BD446B500DABDFD /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B33A9A62BD446B500DABDFD /* Ionicons.ttf */; };
+		7B33A9BB2BD446B500DABDFD /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B33A9A72BD446B500DABDFD /* MaterialCommunityIcons.ttf */; };
+		7B33A9BC2BD446B500DABDFD /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B33A9A82BD446B500DABDFD /* MaterialIcons.ttf */; };
+		7B33A9BD2BD446B500DABDFD /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B33A9A92BD446B500DABDFD /* Octicons.ttf */; };
+		7B33A9BE2BD446B500DABDFD /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B33A9AA2BD446B500DABDFD /* SimpleLineIcons.ttf */; };
+		7B33A9BF2BD446B500DABDFD /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B33A9AB2BD446B500DABDFD /* Zocial.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -41,6 +60,25 @@
 		5709B34CF0A7D63546082F79 /* Pods-vovaschatmobile.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-vovaschatmobile.release.xcconfig"; path = "Target Support Files/Pods-vovaschatmobile/Pods-vovaschatmobile.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-vovaschatmobile-vovaschatmobileTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-vovaschatmobile-vovaschatmobileTests.debug.xcconfig"; path = "Target Support Files/Pods-vovaschatmobile-vovaschatmobileTests/Pods-vovaschatmobile-vovaschatmobileTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-vovaschatmobile.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-vovaschatmobile.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7B33A9992BD446B500DABDFD /* AntDesign.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = AntDesign.ttf; sourceTree = "<group>"; };
+		7B33A99A2BD446B500DABDFD /* Entypo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Entypo.ttf; sourceTree = "<group>"; };
+		7B33A99B2BD446B500DABDFD /* EvilIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = EvilIcons.ttf; sourceTree = "<group>"; };
+		7B33A99C2BD446B500DABDFD /* Feather.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Feather.ttf; sourceTree = "<group>"; };
+		7B33A99D2BD446B500DABDFD /* FontAwesome.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome.ttf; sourceTree = "<group>"; };
+		7B33A99E2BD446B500DABDFD /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Brands.ttf; sourceTree = "<group>"; };
+		7B33A99F2BD446B500DABDFD /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Regular.ttf; sourceTree = "<group>"; };
+		7B33A9A02BD446B500DABDFD /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Solid.ttf; sourceTree = "<group>"; };
+		7B33A9A12BD446B500DABDFD /* FontAwesome6_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Brands.ttf; sourceTree = "<group>"; };
+		7B33A9A22BD446B500DABDFD /* FontAwesome6_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Regular.ttf; sourceTree = "<group>"; };
+		7B33A9A32BD446B500DABDFD /* FontAwesome6_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Solid.ttf; sourceTree = "<group>"; };
+		7B33A9A42BD446B500DABDFD /* Fontisto.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Fontisto.ttf; sourceTree = "<group>"; };
+		7B33A9A52BD446B500DABDFD /* Foundation.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Foundation.ttf; sourceTree = "<group>"; };
+		7B33A9A62BD446B500DABDFD /* Ionicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Ionicons.ttf; sourceTree = "<group>"; };
+		7B33A9A72BD446B500DABDFD /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialCommunityIcons.ttf; sourceTree = "<group>"; };
+		7B33A9A82BD446B500DABDFD /* MaterialIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialIcons.ttf; sourceTree = "<group>"; };
+		7B33A9A92BD446B500DABDFD /* Octicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Octicons.ttf; sourceTree = "<group>"; };
+		7B33A9AA2BD446B500DABDFD /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SimpleLineIcons.ttf; sourceTree = "<group>"; };
+		7B33A9AB2BD446B500DABDFD /* Zocial.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Zocial.ttf; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = vovaschatmobile/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-vovaschatmobile-vovaschatmobileTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-vovaschatmobile-vovaschatmobileTests.release.xcconfig"; path = "Target Support Files/Pods-vovaschatmobile-vovaschatmobileTests/Pods-vovaschatmobile-vovaschatmobileTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
@@ -106,6 +144,33 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		7B33A9AC2BD446B500DABDFD /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				7B33A9992BD446B500DABDFD /* AntDesign.ttf */,
+				7B33A99A2BD446B500DABDFD /* Entypo.ttf */,
+				7B33A99B2BD446B500DABDFD /* EvilIcons.ttf */,
+				7B33A99C2BD446B500DABDFD /* Feather.ttf */,
+				7B33A99D2BD446B500DABDFD /* FontAwesome.ttf */,
+				7B33A99E2BD446B500DABDFD /* FontAwesome5_Brands.ttf */,
+				7B33A99F2BD446B500DABDFD /* FontAwesome5_Regular.ttf */,
+				7B33A9A02BD446B500DABDFD /* FontAwesome5_Solid.ttf */,
+				7B33A9A12BD446B500DABDFD /* FontAwesome6_Brands.ttf */,
+				7B33A9A22BD446B500DABDFD /* FontAwesome6_Regular.ttf */,
+				7B33A9A32BD446B500DABDFD /* FontAwesome6_Solid.ttf */,
+				7B33A9A42BD446B500DABDFD /* Fontisto.ttf */,
+				7B33A9A52BD446B500DABDFD /* Foundation.ttf */,
+				7B33A9A62BD446B500DABDFD /* Ionicons.ttf */,
+				7B33A9A72BD446B500DABDFD /* MaterialCommunityIcons.ttf */,
+				7B33A9A82BD446B500DABDFD /* MaterialIcons.ttf */,
+				7B33A9A92BD446B500DABDFD /* Octicons.ttf */,
+				7B33A9AA2BD446B500DABDFD /* SimpleLineIcons.ttf */,
+				7B33A9AB2BD446B500DABDFD /* Zocial.ttf */,
+			);
+			name = Fonts;
+			path = "../node_modules/react-native-vector-icons/Fonts";
+			sourceTree = "<group>";
+		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -116,6 +181,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				7B33A9AC2BD446B500DABDFD /* Fonts */,
 				13B07FAE1A68108700A75B9A /* vovaschatmobile */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* vovaschatmobileTests */,
@@ -241,8 +307,27 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B33A9AD2BD446B500DABDFD /* AntDesign.ttf in Resources */,
+				7B33A9B22BD446B500DABDFD /* FontAwesome5_Brands.ttf in Resources */,
+				7B33A9B12BD446B500DABDFD /* FontAwesome.ttf in Resources */,
+				7B33A9AE2BD446B500DABDFD /* Entypo.ttf in Resources */,
+				7B33A9B02BD446B500DABDFD /* Feather.ttf in Resources */,
+				7B33A9B72BD446B500DABDFD /* FontAwesome6_Solid.ttf in Resources */,
+				7B33A9B92BD446B500DABDFD /* Foundation.ttf in Resources */,
+				7B33A9B82BD446B500DABDFD /* Fontisto.ttf in Resources */,
+				7B33A9B42BD446B500DABDFD /* FontAwesome5_Solid.ttf in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
+				7B33A9BA2BD446B500DABDFD /* Ionicons.ttf in Resources */,
+				7B33A9B32BD446B500DABDFD /* FontAwesome5_Regular.ttf in Resources */,
+				7B33A9AF2BD446B500DABDFD /* EvilIcons.ttf in Resources */,
+				7B33A9BF2BD446B500DABDFD /* Zocial.ttf in Resources */,
+				7B33A9BB2BD446B500DABDFD /* MaterialCommunityIcons.ttf in Resources */,
+				7B33A9BC2BD446B500DABDFD /* MaterialIcons.ttf in Resources */,
+				7B33A9B52BD446B500DABDFD /* FontAwesome6_Brands.ttf in Resources */,
+				7B33A9BD2BD446B500DABDFD /* Octicons.ttf in Resources */,
+				7B33A9BE2BD446B500DABDFD /* SimpleLineIcons.ttf in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				7B33A9B62BD446B500DABDFD /* FontAwesome6_Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -580,10 +665,7 @@
 					"-DFOLLY_USE_LIBCPP=1",
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				USE_HERMES = true;
@@ -651,10 +733,7 @@
 					"-DFOLLY_USE_LIBCPP=1",
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				USE_HERMES = true;
