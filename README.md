@@ -11,7 +11,7 @@ React Native Nexus Chat Mobile is a real-time chat application built with React 
 
 ## Installation
 
-1. Clone the repository: `git clone [repository URL]`
+1. Clone the repository: `git clone https://github.com/RudVladyslav/nexus-chat-mobile.git`
 2. Install dependencies: `npm install`
 3. [Add any additional installation steps here]
 
